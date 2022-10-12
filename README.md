@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a full stack M.E.R.N project for Sian Roses an organization based in Kitengela ...
+- 🔭 I recently completed working on a front-end React project for Sian Roses an organization based in Kitengela ...
 - 🌱 I’m currently learning JavaScript, MongoDB and Git & GitHub courses from udemy...
 - 👯 I’m looking to collaborate on any projects presented to me by other developers
 - 🤔 I’m looking for help on how to market a web application
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 
-- ⚡ Fun fact: I am also a guidance and counsellor
+- ⚡ Fun fact: I am also a guidance and counsellor, soccer player, and artist (drawing)
 
